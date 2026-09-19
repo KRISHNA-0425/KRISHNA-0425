@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react nodejs mongoDb expressjs**
 
-- 📫 How to reach me **sinhakishu0425@gmail.com**
+- 📫 How to reach me **krishnasinha0425@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
