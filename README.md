@@ -1,46 +1,46 @@
 
-<!-- ============================================ -->
-<!--                 PROFILE HEADER               -->
-<!-- ============================================ -->
+<!-- ===================================================== -->
+<!--                    PROFILE HEADER                     -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Krishna+Sinha+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Developer;Building+AI-Powered+Applications;Turning+Ideas+Into+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Krishna+Sinha+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Developer;Backend+%26+System+Design+Enthusiast;Building+AI-Powered+Applications" alt="Typing SVG"/>
 
-  <h3>Full Stack Developer | MERN | AI Engineering</h3>
+  <h3>Full Stack Developer | MERN Stack | Backend Engineering</h3>
 
   <p>
     Building scalable web applications, intelligent systems
     and meaningful digital experiences.
   </p>
 
-  <a href="https://github.com/KRISHNA-0425">
-    <img src="https://komarev.com/ghpvc/?username=KRISHNA-0425&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
-  </a>
-
-  <a href="https://github.com/KRISHNA-0425?tab=followers">
-    <img src="https://img.shields.io/github/followers/KRISHNA-0425?label=Followers&style=for-the-badge&color=0ea5e9" alt="Followers"/>
-  </a>
-
-  <a href="https://github.com/KRISHNA-0425?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repositories-Explore-0ea5e9?style=for-the-badge&logo=github" alt="Repositories"/>
-  </a>
+  <p>
+    <a href="https://github.com/KRISHNA-0425">
+      <img src="https://komarev.com/ghpvc/?username=KRISHNA-0425&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
+    </a>
+    <a href="https://github.com/KRISHNA-0425?tab=followers">
+      <img src="https://img.shields.io/github/followers/KRISHNA-0425?label=Followers&style=for-the-badge&color=0ea5e9" alt="Followers"/>
+    </a>
+    <a href="https://github.com/KRISHNA-0425?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-Explore-0ea5e9?style=for-the-badge&logo=github" alt="Repositories"/>
+    </a>
+  </p>
 
 </div>
 
 ---
 
-<!-- ============================================ -->
-<!--                   ABOUT ME                   -->
-<!-- ============================================ -->
+<!-- ===================================================== -->
+<!--                       ABOUT ME                        -->
+<!-- ===================================================== -->
 
 ## 👨‍💻 About Me
 
-I'm **Krishna Sinha**, a Full Stack Developer from India passionate about building scalable applications and integrating AI into real-world products.
+I'm **Krishna Sinha**, a Full Stack Developer from India passionate about building scalable applications and solving real-world problems through technology.
 
-- 🔭 Currently building applications using the **MERN stack**.
+- 🔭 Currently building full-stack applications using the **MERN stack**.
 - 🤖 Exploring **AI Agents, LangChain, LangGraph and LLM integrations**.
-- 🌱 Currently learning **Next.js, React Native and System Design**.
+- 🌱 Learning **Next.js, React Native and System Design**.
 - 💡 Interested in backend architecture, distributed systems and scalable applications.
 - 🛠️ Experienced with REST APIs, authentication, database design and third-party integrations.
 - 💬 Ask me about React, Node.js, Express, MongoDB, TypeScript and AI integrations.
@@ -48,9 +48,9 @@ I'm **Krishna Sinha**, a Full Stack Developer from India passionate about buildi
 
 ---
 
-<!-- ============================================ -->
-<!--                 TECH STACK                   -->
-<!-- ============================================ -->
+<!-- ===================================================== -->
+<!--                      TECH STACK                       -->
+<!-- ===================================================== -->
 
 ## 🛠️ Tech Stack & Tools
 
@@ -64,10 +64,6 @@ I'm **Krishna Sinha**, a Full Stack Developer from India passionate about buildi
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,redis,python&perline=9" alt="Backend Skills"/>
 
-### AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=9" alt="AI Skills"/>
-
 ### DevOps & Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,postman,figma,vscode&perline=9" alt="Development Tools"/>
@@ -76,9 +72,9 @@ I'm **Krishna Sinha**, a Full Stack Developer from India passionate about buildi
 
 ---
 
-<!-- ============================================ -->
-<!--               FEATURED PROJECTS              -->
-<!-- ============================================ -->
+<!-- ===================================================== -->
+<!--                   FEATURED PROJECTS                   -->
+<!-- ===================================================== -->
 
 ## 🚀 Featured Projects
 
@@ -88,34 +84,35 @@ I'm **Krishna Sinha**, a Full Stack Developer from India passionate about buildi
 
 ### 🤖 Prepper AI
 
-**Advanced AI-Powered Interview Preparation Platform**
+**AI-Powered Interview Preparation Platform**
 
-A full-stack platform that helps candidates prepare for technical interviews through AI-powered mock interviews and resume intelligence.
+A full-stack platform designed to help candidates prepare for technical interviews through intelligent mock interviews and resume intelligence.
 
 **Highlights**
 - AI-powered mock interviews
 - Resume analysis and parsing
 - Personalized interview sessions
-- Credit and payment management
+- Credit management system
 - Performance analytics
 
-**Tech:** React, Redux Toolkit, Node.js, Express, MongoDB, Firebase, AI APIs.
+**Tech Stack:** React, Redux Toolkit, Node.js, Express, MongoDB, Firebase and AI APIs.
 
 <p>
 <a href="https://github.com/KRISHNA-0425/Prepper">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
 </a>
 <a href="https://prepper-azure.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
 </a>
 </p>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🎨 Designing.io
 
-**Neo-Brutalist System Architecture Sandbox**
+**System Architecture Design Sandbox**
 
 A full-stack application inspired by Eraser.io that allows users to visually design and organize system architectures.
 
@@ -124,16 +121,16 @@ A full-stack application inspired by Eraser.io that allows users to visually des
 - Custom React Flow nodes
 - Automatic layout using ELK.js
 - Contextual Markdown notes
-- Persistent authentication and storage
+- Authentication and persistent storage
 
-**Tech:** React, Node.js, Express, MongoDB, Zustand, React Flow, ELK.js, Tailwind CSS.
+**Tech Stack:** React, Node.js, Express, MongoDB, Zustand, React Flow, ELK.js and Tailwind CSS.
 
 <p>
 <a href="https://github.com/KRISHNA-0425/designO">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
 </a>
 <a href="https://designing-io.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
 </a>
 </p>
 
@@ -141,25 +138,27 @@ A full-stack application inspired by Eraser.io that allows users to visually des
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/KRISHNA-0425?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-View_on_GitHub-0ea5e9?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/KRISHNA-0425?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Repositories-View_on_GitHub-0ea5e9?style=for-the-badge&logo=github" alt="All Repositories"/>
+</a>
+
+</div>
 
 ---
 
-<!-- ============================================ -->
-<!--               GITHUB ANALYTICS               -->
-<!-- ============================================ -->
+<!-- ===================================================== -->
+<!--                   GITHUB ANALYTICS                    -->
+<!-- ===================================================== -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-  <img width="49%" src="https://ghstats.dev/api/card?username=KRISHNA-0425&theme=tokyonight" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KRISHNA-0425&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KRISHNA-0425&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=KRISHNA-0425&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -167,15 +166,15 @@ A full-stack application inspired by Eraser.io that allows users to visually des
 
 <div align="center">
 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KRISHNA-0425&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNA-0425&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 ---
 
-<!-- ============================================ -->
-<!--              CONTRIBUTION ACTIVITY           -->
-<!-- ============================================ -->
+<!-- ===================================================== -->
+<!--                 CONTRIBUTION ACTIVITY                 -->
+<!-- ===================================================== -->
 
 ## 📈 Contribution Activity
 
@@ -185,23 +184,39 @@ A full-stack application inspired by Eraser.io that allows users to visually des
 
 </div>
 
-### 🐍 Contribution Snake
+---
+
+<!-- ===================================================== -->
+<!--                  CONTRIBUTION SNAKE                   -->
+<!-- ===================================================== -->
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KRISHNA-0425/KRISHNA-0425/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KRISHNA-0425/KRISHNA-0425/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/KRISHNA-0425/KRISHNA-0425/output/github-contribution-grid-snake.svg" width="100%"/>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/KRISHNA-0425/KRISHNA-0425/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/KRISHNA-0425/KRISHNA-0425/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/KRISHNA-0425/KRISHNA-0425/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
   </picture>
 
 </div>
 
 ---
 
-<!-- ============================================ -->
-<!--                  CONNECT                     -->
-<!-- ============================================ -->
+<!-- ===================================================== -->
+<!--                     CONNECT WITH ME                  -->
+<!-- ===================================================== -->
 
 ## 🤝 Connect With Me
 
@@ -233,6 +248,6 @@ A full-stack application inspired by Eraser.io that allows users to visually des
 
   **Thanks for visiting my profile!**
 
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20Code-0ea5e9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20Code-0ea5e9?style=flat-square" alt="Made with love and code"/>
 
 </div>
