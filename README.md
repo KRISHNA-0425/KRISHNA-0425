@@ -152,25 +152,39 @@ A full-stack application inspired by Eraser.io that allows users to visually des
 <!--                   GITHUB ANALYTICS                    -->
 <!-- ===================================================== -->
 
+
+<!-- ===================================================== -->
+<!--                   GITHUB ANALYTICS                    -->
+<!-- ===================================================== -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KRISHNA-0425&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img
+    width="49%"
+    src="https://raw.githubusercontent.com/KRISHNA-0425/KRISHNA-0425/main/profile-summary-card-output/tokyonight/3-stats.svg"
+    alt="GitHub Statistics"
+  />
 
-  <img width="49%" src="https://streak-stats.demolab.com/?user=KRISHNA-0425&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img
+    width="49%"
+    src="https://raw.githubusercontent.com/KRISHNA-0425/KRISHNA-0425/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+    alt="Most Used Languages"
+  />
 
 </div>
-
-### 💻 Most Used Languages
 
 <div align="center">
 
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNA-0425&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img
+    width="80%"
+    src="https://raw.githubusercontent.com/KRISHNA-0425/KRISHNA-0425/main/profile-summary-card-output/tokyonight/0-profile-details.svg"
+    alt="GitHub Profile Details"
+  />
 
 </div>
 
----
 
 <!-- ===================================================== -->
 <!--                 CONTRIBUTION ACTIVITY                 -->
