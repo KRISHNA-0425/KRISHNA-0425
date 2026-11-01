@@ -1,33 +1,238 @@
-<h1 align="center">Hi 👋, I'm Krishna Sinha</h1>
-<h3 align="center">A passionate full-stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-0425&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-0425" /> </p>
+<!-- ============================================ -->
+<!--                 PROFILE HEADER               -->
+<!-- ============================================ -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-0425" alt="krishna-0425" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working in MERN stack **wizper**
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Krishna+Sinha+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Developer;Building+AI-Powered+Applications;Turning+Ideas+Into+Products" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **React Native, Nextjs**
+  <h3>Full Stack Developer | MERN | AI Engineering</h3>
 
-- 💬 Ask me about **react nodejs mongoDb expressjs**
+  <p>
+    Building scalable web applications, intelligent systems
+    and meaningful digital experiences.
+  </p>
 
-- 📫 How to reach me **krishnasinha0425@gmail.com**
+  <a href="https://github.com/KRISHNA-0425">
+    <img src="https://komarev.com/ghpvc/?username=KRISHNA-0425&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
+  </a>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+  <a href="https://github.com/KRISHNA-0425?tab=followers">
+    <img src="https://img.shields.io/github/followers/KRISHNA-0425?label=Followers&style=for-the-badge&color=0ea5e9" alt="Followers"/>
+  </a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/krishna_0425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="krishna_0425" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/krishna-sinha-86097330a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna" height="30" width="40" /></a>
+  <a href="https://github.com/KRISHNA-0425?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-Explore-0ea5e9?style=for-the-badge&logo=github" alt="Repositories"/>
+  </a>
+
+</div>
+
+---
+
+<!-- ============================================ -->
+<!--                   ABOUT ME                   -->
+<!-- ============================================ -->
+
+## 👨‍💻 About Me
+
+I'm **Krishna Sinha**, a Full Stack Developer from India passionate about building scalable applications and integrating AI into real-world products.
+
+- 🔭 Currently building applications using the **MERN stack**.
+- 🤖 Exploring **AI Agents, LangChain, LangGraph and LLM integrations**.
+- 🌱 Currently learning **Next.js, React Native and System Design**.
+- 💡 Interested in backend architecture, distributed systems and scalable applications.
+- 🛠️ Experienced with REST APIs, authentication, database design and third-party integrations.
+- 💬 Ask me about React, Node.js, Express, MongoDB, TypeScript and AI integrations.
+- 📫 Reach me at **[krishnasinha0425@gmail.com](mailto:krishnasinha0425@gmail.com)**.
+
+---
+
+<!-- ============================================ -->
+<!--                 TECH STACK                   -->
+<!-- ============================================ -->
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,framer&perline=9" alt="Frontend Skills"/>
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,redis,python&perline=9" alt="Backend Skills"/>
+
+### AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=9" alt="AI Skills"/>
+
+### DevOps & Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,postman,figma,vscode&perline=9" alt="Development Tools"/>
+
+</div>
+
+---
+
+<!-- ============================================ -->
+<!--               FEATURED PROJECTS              -->
+<!-- ============================================ -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Prepper AI
+
+**Advanced AI-Powered Interview Preparation Platform**
+
+A full-stack platform that helps candidates prepare for technical interviews through AI-powered mock interviews and resume intelligence.
+
+**Highlights**
+- AI-powered mock interviews
+- Resume analysis and parsing
+- Personalized interview sessions
+- Credit and payment management
+- Performance analytics
+
+**Tech:** React, Redux Toolkit, Node.js, Express, MongoDB, Firebase, AI APIs.
+
+<p>
+<a href="https://github.com/KRISHNA-0425/Prepper">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://prepper-azure.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</td>
+<td width="50%" valign="top">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-0425&show_icons=true&locale=en&layout=compact" alt="krishna-0425" /></p>
+### 🎨 Designing.io
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna-0425&show_icons=true&locale=en" alt="krishna-0425" /></p>
+**Neo-Brutalist System Architecture Sandbox**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-0425&" alt="krishna-0425" /></p>
+A full-stack application inspired by Eraser.io that allows users to visually design and organize system architectures.
+
+**Highlights**
+- Interactive architecture canvas
+- Custom React Flow nodes
+- Automatic layout using ELK.js
+- Contextual Markdown notes
+- Persistent authentication and storage
+
+**Tech:** React, Node.js, Express, MongoDB, Zustand, React Flow, ELK.js, Tailwind CSS.
+
+<p>
+<a href="https://github.com/KRISHNA-0425/designO">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://designing-io.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/KRISHNA-0425?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-View_on_GitHub-0ea5e9?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<!-- ============================================ -->
+<!--               GITHUB ANALYTICS               -->
+<!-- ============================================ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img width="49%" src="https://ghstats.dev/api/card?username=KRISHNA-0425&theme=tokyonight" alt="GitHub Statistics"/>
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KRISHNA-0425&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+### 💻 Most Used Languages
+
+<div align="center">
+
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KRISHNA-0425&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+---
+
+<!-- ============================================ -->
+<!--              CONTRIBUTION ACTIVITY           -->
+<!-- ============================================ -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <img src="https://ghchart.rshah.org/38bdf8/KRISHNA-0425" alt="GitHub Contribution Graph" width="100%"/>
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KRISHNA-0425/KRISHNA-0425/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KRISHNA-0425/KRISHNA-0425/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/KRISHNA-0425/KRISHNA-0425/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+
+</div>
+
+---
+
+<!-- ============================================ -->
+<!--                  CONNECT                     -->
+<!-- ============================================ -->
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/krishna-sinha-86097330a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://dev.to/krishna_0425">
+    <img src="https://img.shields.io/badge/Dev.to-Follow-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+
+  <a href="mailto:krishnasinha0425@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://github.com/KRISHNA-0425">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 💡 Building. Learning. Improving. Repeating.
+
+  **Thanks for visiting my profile!**
+
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20Code-0ea5e9?style=flat-square"/>
+
+</div>
