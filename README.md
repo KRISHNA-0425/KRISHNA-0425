@@ -1,17 +1,22 @@
-
 <!-- ===================================================== -->
-<!--                    PROFILE HEADER                     -->
+<!--                    HERO & ABOUT ME                    -->
 <!-- ===================================================== -->
 
-<div align="center">
+<table>
+<tr>
+<td width="38%" align="center" valign="top">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Krishna+Sinha+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Developer;Backend+%26+System+Design+Enthusiast;Building+AI-Powered+Applications" alt="Typing SVG"/>
+  <img src="./assets/avatar.svg" alt="Krishna Sinha Sky Cyber Avatar" width="100%" />
+
+</td>
+<td width="62%" valign="top">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Krishna+Sinha+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Developer;Backend+%26+System+Design+Enthusiast;Building+AI-Powered+Applications" alt="Typing SVG"/>
 
   <h3>Full Stack Developer | MERN Stack | Backend Engineering</h3>
 
   <p>
-    Building scalable web applications, intelligent systems
-    and meaningful digital experiences.
+    Building scalable web applications, intelligent systems and meaningful digital experiences.
   </p>
 
   <p>
@@ -26,30 +31,26 @@
     </a>
   </p>
 
-</div>
+  ### 👨‍💻 About Me
+
+  I'm **Krishna Sinha**, a Full Stack Developer from India passionate about building scalable applications and solving real-world problems through technology.
+
+  - 🔭 Currently building full-stack applications using the **MERN stack**.
+  - 🤖 Exploring **AI Agents, LangChain, LangGraph and LLM integrations**.
+  - 🌱 Learning **Next.js, React Native and System Design**.
+  - 💡 Interested in backend architecture, distributed systems and scalable applications.
+  - 🛠️ Experienced with REST APIs, authentication, database design and third-party integrations.
+  - 💬 Ask me about React, Node.js, Express, MongoDB, TypeScript and AI integrations.
+  - 📫 Reach me at **[krishnasinha0425@gmail.com](mailto:krishnasinha0425@gmail.com)**.
+
+</td>
+</tr>
+</table>
 
 ---
 
 <!-- ===================================================== -->
-<!--                       ABOUT ME                        -->
-<!-- ===================================================== -->
-
-## 👨‍💻 About Me
-
-I'm **Krishna Sinha**, a Full Stack Developer from India passionate about building scalable applications and solving real-world problems through technology.
-
-- 🔭 Currently building full-stack applications using the **MERN stack**.
-- 🤖 Exploring **AI Agents, LangChain, LangGraph and LLM integrations**.
-- 🌱 Learning **Next.js, React Native and System Design**.
-- 💡 Interested in backend architecture, distributed systems and scalable applications.
-- 🛠️ Experienced with REST APIs, authentication, database design and third-party integrations.
-- 💬 Ask me about React, Node.js, Express, MongoDB, TypeScript and AI integrations.
-- 📫 Reach me at **[krishnasinha0425@gmail.com](mailto:krishnasinha0425@gmail.com)**.
-
----
-
-<!-- ===================================================== -->
-<!--                      TECH STACK                       -->
+<!--                      TECH STACK & TOOLS               -->
 <!-- ===================================================== -->
 
 ## 🛠️ Tech Stack & Tools
@@ -152,11 +153,6 @@ A full-stack application inspired by Eraser.io that allows users to visually des
 <!--                   GITHUB ANALYTICS                    -->
 <!-- ===================================================== -->
 
-
-<!-- ===================================================== -->
-<!--                   GITHUB ANALYTICS                    -->
-<!-- ===================================================== -->
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -185,6 +181,7 @@ A full-stack application inspired by Eraser.io that allows users to visually des
 
 </div>
 
+---
 
 <!-- ===================================================== -->
 <!--                 CONTRIBUTION ACTIVITY                 -->
@@ -229,7 +226,7 @@ A full-stack application inspired by Eraser.io that allows users to visually des
 ---
 
 <!-- ===================================================== -->
-<!--                     CONNECT WITH ME                  -->
+<!--                     CONNECT WITH ME                   -->
 <!-- ===================================================== -->
 
 ## 🤝 Connect With Me
