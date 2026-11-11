@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <div align="center">
-<img src="./assets/sky-avatar.svg" alt="Krishna Sinha - Sky avatar" width="100%"/>
+<img src="./assets/sky-avatar.svg" alt="Krishna Sinha - Sky avatar" width="500"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Krishna+Sinha+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Developer;Backend+%26+System+Design+Enthusiast;Building+AI-Powered+Applications" alt="Typing SVG"/>
 <h3>Full Stack Developer | MERN Stack | Backend Engineering</h3>
 <p>
